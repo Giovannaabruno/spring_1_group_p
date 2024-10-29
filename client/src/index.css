@@ -1,0 +1,23 @@
+/* Add CSS */
+
+/* Add global CSS here */
+/* Add CSS stylesheet */
+
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+html {
+  height: 99%;
+}
+
+body,
+#root {
+  height: 100%;
+}
+.colorBlindMode{
+ background-color: #1A1A1A; 
+/* background-color: black; */
+color: yellow;
+
+}
